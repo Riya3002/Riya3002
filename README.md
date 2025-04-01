@@ -19,10 +19,12 @@ Hello! I'm Riya, a passionate web developer and an innovative embedded engineer.
 **Skills and Tools**
 
 Website Development: MERN stack, NextJS, ThreeJS, Typescript, Javascript, Tailwindcss  
-Languages: C, Embedded C, Python, Micro-python  
-Softwares: Kicad, LTspice, FreeRTOS  
-Hardware: ARM STM32F1XXX, Raspberry Pi Pico, ESP32, ICs, Circuit Design, I2C, SPI, UART  
-Developer Tools: Git, Github, Eclipse IDE  
+Languages: C, Python, Embedded C, JavaScript, Typescript  
+Softwares: Kicad, FreeRTOS, Git, Arduino IDE, STM32cube softwares, Prusa Slicer, Creality Print, Fusion360 
+Hardware: STM32F4XXX, STM32H7XXX, ESP32, Arduino, ICs, Circuit Design, Communication Protocols - SPI,
+I2C, RS485, CAN, MQTT, etc., Control System, PCB Designing and Soldering, Sensor integrations, Ender 3
+Developer Tools: Git, Github, Eclipse IDE, Arduino IDE, STM32cube softwares 
+Semiconductors: Fabrication Processes, Lithography, Etching methods, Metallization, Cutting and Packaging
 Designing:Figma, Canva, Adobe Photoshop  
 
 
